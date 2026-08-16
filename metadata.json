@@ -1,0 +1,6 @@
+{
+  "name": "Chess AI Arena",
+  "description": "Play chess against a human-like 900–1200 Elo AI with realistic tactics, move arrows, hints, customizable themes, and opening variety.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
